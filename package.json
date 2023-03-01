@@ -2,7 +2,7 @@
   "name": "qr-scanner-pwa",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://NuriEraySahin.github.io/qr-reader-pwa",
+  "homepage": "https://NuriEraySahin.github.io/qr-scanner-pwa",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.7.0",
